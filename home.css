@@ -1,0 +1,57 @@
+/* NAVBAR */
+
+.navbar-items {
+  padding: 0.5% 0%;
+  font-size: 20px;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+/* OFFERS */
+
+.caption {
+  text-align: center;
+  font-family: "Saira Condensed", sans-serif;
+  padding: 3%;
+  background-color: blanchedalmond;
+
+}
+
+.offers {
+  margin-top: 57px;
+}
+
+.appeal-link
+{
+  color: aliceblue;
+}
+
+.appeal
+{
+  padding: 1%;
+  text-align: left;
+  background-color: aliceblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* MOVIES */
+
+.row
+{
+    background-color: honeydew;
+    padding: 3% 8%;
+}
+
+.rec
+{
+    padding: 0% 0% 1% 14px;
+}
+
+/* FOOTER */
+.footer
+{
+    padding: 5% 42%;
+}
+
+.card{
+  height: 100%;
+}

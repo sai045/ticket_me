@@ -1,0 +1,47 @@
+.image-form
+{
+    background-image: url(https://image.shutterstock.com/image-vector/film-strips-cinema-rell-isolated-260nw-1415904974.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2%;
+    margin-top: 2%;
+}
+
+.form-items {
+  padding: 1%;
+}
+
+.formbox {
+  height: 82%;
+  width: 80%;
+  background-color: rgb(100, 100, 100);
+  color: aliceblue;
+  padding: 3%;
+  border-radius: 3%;
+
+  margin: 5% 5%;
+}
+
+@media (max-width: 950px) {
+  .formbox {
+    margin: auto auto;
+    margin: 5% 10%;
+  }
+}
+
+@media (max-width: 992px)
+{
+    .signup-img {
+      width: 0px;
+    }
+}
+
+.signup-img {
+    position: relative;
+    top: 100px;
+}
+
+.footer
+{
+    padding: 2% 42%;
+}
